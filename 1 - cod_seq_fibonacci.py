@@ -1,5 +1,8 @@
+'''
+Seguencia de Fibonacci by Lorena Oliveira
+Estágio Target - Ribeirão preto
 
-
+'''
 def fibonacci_sequence(limit):
     fib_sequence = [0, 1]
     while fib_sequence[-1] < limit:
