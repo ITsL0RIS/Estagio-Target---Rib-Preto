@@ -1,6 +1,7 @@
 "# Estagio-Target---Rib-Preto" 
 
 Olá pessoal da Target!
+
 Eu atualizei meu repositório com os projetos que eu desenvolvi durante a faculdade, para que vocês possam ver mais claramente tudo o que apresentei na entrevista.
 
 Temos três projetos adicionados:
