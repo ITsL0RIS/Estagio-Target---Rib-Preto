@@ -2,25 +2,25 @@
 
 # Olá pessoal da Target!
 
-## Eu atualizei meu repositório com os projetos que eu desenvolvi durante a faculdade, para que vocês possam ver mais claramente tudo o que apresentei na entrevista.
+### Eu atualizei meu repositório com os projetos que eu desenvolvi durante a faculdade, para que vocês possam ver mais claramente tudo o que apresentei na entrevista.
 
-### Estrutura_de_dados_C
+#### Estrutura_de_dados_C
 O primeiro projeto que eu desenvolvi, foi em estrutura de dados na linguagem C, esse código exemplifica conceitos básicos de manipulação de dados, como o uso de structs, arrays, e também operações com as funções CRUD.
 
-### Projeto_POO_Java
+#### Projeto_POO_Java
 O segundo projeto foi em POO (programação orientada a objetos) em Java, aqui nesse projeto teve duas partes, a primeira foi feita em bloco de notas, e executada pelo próprio terminal do computador. E na segunda etapa, usamos uma IDE para completar o código e também implementar-lo de maneira visual, criando uma interface com botões, caixa de textos, listas, etc.
 O projeto se tratava de um armazenamento de produtos de beleza, onde o usuário digitava a quantidade e o tipo de produto que ele desejava, e o código informava todos os dados cadastrados do produto, como, a marca, o numero da referencia, a função, a coleção, entre outras coisas.
 
 <sub>(obs: infelizmente eu não consegui encontrar a segunda etapa do meu projeto, então só deixei disponível a conclusão de pesquisa feita pelo usuário, através do prompt de comando (arquivo: Resultado_Terminal). E se por acaso eu encontrar a segunda parte a tempo, deixarei disponível aqui também).<sub/>
 
-### Web_curriculo
+#### Web_curriculo
 E por último, eu comentei sobre o meu começo em programação web, mais especificamente em front-end.
-Como parte da primeira atividade feita dessa matéria, desenvolvi um currículo em HTML, que até já foi entregue. Aproveito para compartilhar com vocês uma versão mais personalizada desse trabalho.
+Fiz uma atividade simples para essa diciplina semana passada, onde eu criei um curriculo em HTML. Então, aproveitei para compartilhar com vocês uma versão mais personalizada desse trabalho.
 
 
-### Temos três projetos adicionados no repositório:
+#### Temos três projetos adicionados no repositório:
 - 1 - Estrutura_de_dados_C
-- 2 - Projeto_POO_Java <sub>(Resultato_Terminal)</sub> [https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/tree/main/2_Projeto_POO_Java](#Projeto_POO_Java).
+- 2 - Projeto_POO_Java <sub>(Resultato_Terminal)</sub> 
 - 3 - Web_curriculo
   
 
