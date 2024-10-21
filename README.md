@@ -6,9 +6,9 @@ Eu atualizei meu repositório com os projetos que eu desenvolvi durante a faculd
 
 Temos três projetos adicionados:
 
-1 - Estrutura de dados na Linguagem C
-2 - POO na Linguagem Java
-3- Programação Web Front-End
+1 - Estrutura de dados na Linguagem C /n
+2 - POO na Linguagem Java/n
+3- Programação Web Front-End/n
 
 
 Fiquem a vontade!   
