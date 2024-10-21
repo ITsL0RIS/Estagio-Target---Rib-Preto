@@ -5,7 +5,7 @@
 ### Eu atualizei meu repositório com os projetos que eu desenvolvi durante a faculdade, para que vocês possam ver mais claramente tudo o que apresentei na entrevista.
 
 
-#### Estrutura_de_dados_C
+#### Projeto_C
 > O primeiro projeto que eu desenvolvi, foi em estrutura de dados na linguagem C, esse código exemplifica conceitos básicos de manipulação de dados, como o uso de structs, arrays, e também operações com as funções CRUD.
 
 #### Projeto_POO_Java
@@ -15,15 +15,15 @@
 
 <sub>(obs: infelizmente eu não consegui encontrar a segunda etapa do meu projeto, então só deixei disponível a conclusão de pesquisa feita pelo usuário, através do prompt de comando (arquivo: Resultado_Terminal). E se por acaso eu encontrar a segunda parte a tempo, deixarei disponível aqui também).<sub/>
 
-#### Web_curriculo
+#### Curriculo_HTML
 > E por último, eu comentei sobre o meu começo em programação web, mais especificamente em front-end.
 Fiz uma atividade simples para essa diciplina semana passada, onde eu criei um curriculo em HTML. Então, aproveitei para compartilhar com vocês uma versão mais personalizada desse trabalho.
 
 
 #### Temos três projetos adicionados no repositório:
-- [1 - Estrutura_de_dados_C](https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/blob/main/1_Estrutura_de_dados_C.c) 
+- [1 - Projeto_C](https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/tree/main/1_Projeto_C) 
 - [2 - Projeto_POO_Java](https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/tree/main/2_Projeto_POO_Java) 
-- [3 - Web_curriculo](https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/tree/main/3_Web_Curriculo)
+- [3 - Atv_Curriculo_HTML]([https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/tree/main/3_Web_Curriculo](https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/tree/main/3__Atv_Curriculo_HTML))
   
 
 
