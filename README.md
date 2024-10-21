@@ -20,7 +20,7 @@ Como parte da primeira atividade feita dessa matéria, desenvolvi um currículo 
 
 ### Temos três projetos adicionados no repositório:
 - 1 - Estrutura_de_dados_C
-- 2 - Projeto_POO_Java <sub>(Resultato_Terminal)</sub>
+- 2 - Projeto_POO_Java <sub>(Resultato_Terminal)</sub> [https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/tree/main/2_Projeto_POO_Java](#Projeto_POO_Java).
 - 3 - Web_curriculo
   
 
