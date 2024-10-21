@@ -23,7 +23,7 @@ Fiz uma atividade simples para essa diciplina semana passada, onde eu criei um c
 #### Temos três projetos adicionados no repositório:
 - [1 - Projeto_C](https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/tree/main/1_Projeto_C) 
 - [2 - Projeto_POO_Java](https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/tree/main/2_Projeto_POO_Java) 
-- [3 - Atv_Curriculo_HTML]([https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/tree/main/3_Web_Curriculo](https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/tree/main/3__Atv_Curriculo_HTML))
+- [3 - Atv_Curriculo_HTML](https://github.com/ITsL0RIS/Estagio-Target---Rib-Preto/tree/main/3__Atv_Curriculo_HTML)
   
 
 
