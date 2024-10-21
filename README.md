@@ -1,6 +1,12 @@
 "# Estagio-Target---Rib-Preto" 
 
-Olá, esse é o repositório que eu criei para salvar 'minhas respostas' ao Desafio Target! :)  para 
-a vaga de Estágio em Desenvolvimento - Ribeirão Preto 
+Olá pessoal da Target!
+Eu atualizei meu repositório com os projetos que eu desenvolvi durante a faculdade, para que vocês possam ver mais claramente tudo o que apresentei na entrevista.
 
-Sejam bem-vindos!
+Temos três projetos adicionados:
+1 - Estrutura de dados na Linguagem C
+2 - POO na Linguagem Java
+3- Programação Web Front-End
+
+Fiquem a vontade!   
+Qualquer coisa, estou a disposição.
