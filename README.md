@@ -2,7 +2,7 @@
 
 # Olá pessoal da Target!
 
-### Eu atualizei meu repositório com os projetos que eu desenvolvi durante a faculdade, para que vocês possam ver mais claramente tudo o que apresentei na entrevista.
+### Eu atualizei meu repositório com os projetos que desenvolvi durante a faculdade, para que vocês possam ver mais claramente tudo o que apresentei na entrevista.
 
 
 #### Projeto_C
