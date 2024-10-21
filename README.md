@@ -10,6 +10,7 @@
 
 #### Projeto_POO_Java
 > O segundo projeto foi em POO (programação orientada a objetos) em Java, aqui nesse projeto teve duas partes, a primeira foi feita em bloco de notas, e executada pelo próprio terminal do computador. E na segunda etapa, usamos uma IDE para completar o código e também implementar-lo de maneira visual, criando uma interface com botões, caixa de textos, listas, etc.
+
 O projeto se tratava de um armazenamento de produtos de beleza, onde o usuário digitava a quantidade e o tipo de produto que ele desejava, e o código informava todos os dados cadastrados do produto, como, a marca, o numero da referencia, a função, a coleção, entre outras coisas.
 
 <sub>(obs: infelizmente eu não consegui encontrar a segunda etapa do meu projeto, então só deixei disponível a conclusão de pesquisa feita pelo usuário, através do prompt de comando (arquivo: Resultado_Terminal). E se por acaso eu encontrar a segunda parte a tempo, deixarei disponível aqui também).<sub/>
@@ -27,4 +28,4 @@ Fiz uma atividade simples para essa diciplina semana passada, onde eu criei um c
 
 
 Fiquem a vontade!   
-Qualquer coisa, estou a disposição.
+Qualquer coisa, estou a disposição :)
