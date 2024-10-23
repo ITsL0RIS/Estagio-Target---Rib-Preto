@@ -18,6 +18,7 @@
 #### Curriculo_HTML
 > E por último, eu comentei sobre o meu começo em programação web, mais especificamente em front-end.
 Fiz uma atividade simples para essa diciplina semana passada, onde eu criei um curriculo em HTML. Então, aproveitei para compartilhar com vocês uma versão mais personalizada desse trabalho.
+<sub> (obs: Ainda estou na 3ª semana de aula, por conta da greve, o semestre começou somente em Outubro)</sub> 
 
 
 #### Temos três projetos adicionados no repositório:
